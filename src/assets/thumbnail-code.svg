@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-thumbnail-code">
+      <rect width="50" height="50"/>
+    </clipPath>
+  </defs>
+  <g id="thumbnail-code" clip-path="url(#clip-thumbnail-code)">
+    <rect width="50" height="50" fill="#225fb0"/>
+    <path id="Path_4" data-name="Path 4" d="M658.822,2147.46l6.505,5.041-6.505,5.97" transform="translate(-626.781 -2128.997)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Path_5" data-name="Path 5" d="M665.327,2147.46l-6.505,5.041,6.505,5.97" transform="translate(-647.368 -2128.997)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <line id="Line_3" data-name="Line 3" y1="22.899" x2="4.842" transform="translate(22.579 12.519)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3" opacity="0.7"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-thumbnail-zip">
+      <rect width="50" height="50"/>
+    </clipPath>
+  </defs>
+  <g id="thumbnail-zip" clip-path="url(#clip-thumbnail-zip)">
+    <rect width="50" height="50" fill="#d4a41f"/>
+    <path id="Union_1" data-name="Union 1" d="M-2309-2215v-29a9.985,9.985,0,0,1-4-8v-3h-9v-24h38v24h-4v40Z" transform="translate(2348 2272)" fill="#a07e1f"/>
+    <path id="Union_2" data-name="Union 2" d="M-2294-2216a10,10,0,0,1-10-10v-3h-18v-50h25a10,10,0,0,1,10,10v16.2a10,10,0,0,1,8,9.8v17a10,10,0,0,1-10,10Z" transform="translate(2322 2279)" fill="#d4a41f"/>
+  </g>
+</svg>
