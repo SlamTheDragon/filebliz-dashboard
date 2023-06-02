@@ -3,14 +3,14 @@ import "./icon.scss";
 
 interface IconInterface {
     icon: string;
-    size?: number;
-    color?: string;
     title?: string;
+    size?: number;
+    // color?: string; // deprecation
 }
 
-function Icon({ icon, size, color, title }: IconInterface) {
+function Icon(props: IconInterface) {
     return (
-        <i className={"f-icon " + icon} style={{ fontSize: size, color: color }} title={title}></i>
+        <i className={"fa-solid " + props.icon} style={{ fontSize: props.size }} title={props.title}></i>
     );
 }
 
